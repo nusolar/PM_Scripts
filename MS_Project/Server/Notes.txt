@@ -1,0 +1,6 @@
+Use Parse
+
+Table will be saved using path enumeration
+
+http://www.slideshare.net/billkarwin/sql-antipatterns-strike-back
+pages 48-77
