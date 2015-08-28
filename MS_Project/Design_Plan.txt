@@ -1,0 +1,16 @@
+Flow:
+Last updated 8/28
+
+Update Project - Done
+Export to Excel spreadsheet - Done
+Run Python script to scrape + format Excel - 8 hours
+Run Python script to upload to Parse - 1 hour 
+Parse cloud code to sort files into correct tables - 4 hours
+Webpage to call Parse cloud code to export tables into JSON string - 2 hours
+jQuery/HTML/CSS/JS to update page with newest data dump and provide UI for end user - 20 hours
+
+Other things to do:
+set up database - 4 hours
+
+
+-SW
