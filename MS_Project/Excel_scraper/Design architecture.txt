@@ -1,0 +1,31 @@
+Class Project
+
+*project parent
+*project child[]
+int num_of_children
+
+//Task info
+string name
+int duration
+string start
+string end
+*project predecessors[]
+int predecessors_num[]
+string Resources[]
+
+//Baseline stats
+int b_duration[]
+string b_start[]
+string b_end[]
+
+//Functions
+get_leaves(Project p)
+increment children (Project p)
+print (Project p)
+import_projects(filename)
+compare_projects(Project p1, Project p2)
+sort_children(Projejct p)
+
+//Notes
+Relies on depth first search recursive algorithm to create projects
+Most likely will be created using python using excel library xlrd or something else
