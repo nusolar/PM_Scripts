@@ -3,6 +3,7 @@ Class Project
 *project parent
 *project child[]
 int num_of_children
+int level //level represents place in the tree. 0 = root
 
 //Task info
 string name
@@ -12,6 +13,8 @@ string end
 *project predecessors[]
 int predecessors_num[]
 string Resources[]
+int remaining_work
+bool milestone
 
 //Baseline stats
 int b_duration[]
