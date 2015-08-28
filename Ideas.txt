@@ -1,0 +1,6 @@
+Trello analytics:
+Determine most active users
+Determine # of updates a user makes/day
+Determine how often cards are moved
+Calculate velocity
+Determine average sit time of each card
