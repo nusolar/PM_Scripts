@@ -4,6 +4,7 @@ Class Project
 *project child[]
 int num_of_children
 int level //level represents place in the tree. 0 = root
+int id //used so that there's a unique identifier for each node
 
 //Task info
 string name
