@@ -1,0 +1,8 @@
+Receives:
+Huge project file with all data
+
+Converts this data into the right format and then calls a Parse cloud code function
+
+Format:
+JSON pairs for all data that's not a pointer
+Path enumeration for location in Tree
